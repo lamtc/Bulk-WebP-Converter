@@ -2,6 +2,8 @@
 
 A simple and efficient tool to convert multiple images to WebP format while maintaining quality.
 
+![Bulk WebP Converter](screenshot.png)
+
 ## Features
 
 - Bulk conversion of images to WebP format
